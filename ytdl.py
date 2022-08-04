@@ -10,6 +10,7 @@ import webbrowser
 import datetime
 import psutil
 from pytube import YouTube
+# 2022-08-04
 #TODO
 # pyinstaller --clean --onefile --noconsole  --icon=youtube.ico ytdl.py
 
